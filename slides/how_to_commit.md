@@ -28,7 +28,7 @@ _paginate: false
 Email: vibhoothiiaanand@gmail.com
 IRC: `@mindfreeze`
 https://mindfreeze.videolan.me
-Slides: https://github.com/vibhoothiiaanand/amFOSS 
+Slides: https://github.com/vibhoothiiaanand/amfoss
 
 ---
 # Who am I ?
@@ -127,7 +127,8 @@ So there is no specific way to have a commit message, it all depends on the org 
 - References 
 > Mention the issues or PR which the current commit advances or closes!
 
-
+- Branch names!
+> Do not keep random names for your branch, when sending PR, it does matter.
 
 ---
 
