@@ -186,4 +186,4 @@ So there is no specific way to have a commit message, it all depends on the org 
 # Questions????
 
 
-## Ask questions, DO NOT be dumb kids.
+## Ask questions, Be dumb kids!!
