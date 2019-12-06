@@ -56,7 +56,7 @@ Slides: https://github.com/vibhoothiiaanand/amfoss
 
 Ok, so how do you do commit ? like this? 
 
-![center](commit.png)
+![center](commit1.png)
 
 <!-- _footer: "[1]: https://github.com/amfoss/website/commit/622ad29a5ebc03b8af41b21de4c780bc7d9ebe6e" -->
 
@@ -106,8 +106,8 @@ So there is no specific way to have a commit message, it all depends on the org 
 > Do not put "PERIOD" or "." at the end of subject
 
 - Typos 
-> Double and triple check for typos, once it is merged and you are shameless!!!
-> We know you are pigs, but do not show that.
+> Double and triple check for typos, once it is merged then it is really difficult to correct them.
+> Be Aware!
 
 - Break at 72 Chars and not 80
 > Try to break the description when it is 72 characters, have extentions for your `vim` for this, ( Do you vim??) 
